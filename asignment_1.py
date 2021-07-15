@@ -7,6 +7,8 @@ image4 = cv2.imread("images\\4.jpg")
 image5 = cv2.imread("images\\5.jpg")
 image6 = cv2.imread("images\\6.jpg")
 
+# press 1 ,2 ,3 ,4 ,5 for changes the background images
+
 # image 1
 
 cap = cv2.VideoCapture(0)
